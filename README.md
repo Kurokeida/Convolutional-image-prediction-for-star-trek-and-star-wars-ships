@@ -6,3 +6,7 @@ X-Wing
 Entrerprise
 DDeridex
 DreadNought
+StarDestroyer
+EmperialShuttle
+TieFighter
+DS9 Station
